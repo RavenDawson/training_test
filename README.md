@@ -1,2 +1,6 @@
 # training_test
-test to learn git
+this is a test to learn git
+
+## purpose
+- pratice git
+- have fun!
